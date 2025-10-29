@@ -1,11 +1,11 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
- 
-# TSWD-portfolio-templates
+| [home page](https://ayushmishra.github.io/tswd-portfolio-ayush/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+# TSWD-portfolio-ayush
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: https://ayushmishra.github.io/tswd-portfolio-ayush/
+- This repository: https://github.com/ayushmishra/tswd-portfolio-ayush
 
 ---
 
@@ -121,12 +121,12 @@ So here's the code you'll need to add to your own site to create a second page.
 1. First, create a new page in your repository (for example, dataviz1.md)
 2. Next, add a link to that page by inserting the following into your readme.md page:
 
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
+`[title](dataviz)` or `[dataviz](https://ayushmishra.github.io/tswd-portfolio-ayush/dataviz.html)` or `[CMU](https://www.cmu.edu)`
 
 Any of those formats will work. Here's some examples of working links: 
 
 `[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
+`[dataviz](https://ayushmishra.github.io/tswd-portfolio-ayush/dataviz.html)` = [dataviz](https://ayushmishra.github.io/tswd-portfolio-ayush/dataviz.html)  
 `[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
 
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
