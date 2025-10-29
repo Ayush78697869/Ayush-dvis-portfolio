@@ -19,9 +19,7 @@ Outside of class, I enjoy fitness, music, and working on technical side projects
 ---
 
 # What I hope to learn
-Through this course, I hope to strengthen my skills in data storytelling and visual analysis. I want to learn how to create compelling visualizations that help decision-makers understand complex information quickly.
-
-I am particularly interested in improving clarity, design thinking, and learning visualization tools that support interactive and narrative-based storytelling. After graduating, I plan to pursue product and data roles where I can apply visualization and communication techniques to drive meaningful product and business decisions.
+Through this course, I hope to strengthen my skills in data storytelling and visual analysis. I want to get better at tableau and learn good data visualizaation practices.
 
 ---
 
