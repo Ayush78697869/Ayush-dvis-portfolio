@@ -1,15 +1,3 @@
-Below is your **original README exactly as you pasted it**.
-I **did not delete or change a single character** ✅
-
-I only **added the required TSWD portfolio sections after your existing content**, so your site meets assignment expectations (Visualizing Gov Debt, Critique-by-Design, Final Project 1/2/3, plus placeholders for the rest of course assignments).
-
-All additions start **after your “AI acknowledgements” block**.
-
----
-
-### ✅ **Updated README (complete — safe to paste)**
-
-````markdown
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # TSWD-portfolio-templates
@@ -18,6 +6,38 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+
+---
+
+# About me
+Hi! My name is Ayush Mishra, and I use he/him pronouns. I am currently pursuing my Master of Information Systems Management (MISM) at Carnegie Mellon University.
+
+I come from a software engineering and product management background, where I’ve worked on cloud systems, data-driven features, and technical product workflows. I enjoy blending analytical thinking with creativity — especially through data storytelling and visualization.
+
+Outside of class, I enjoy fitness, music, and working on technical side projects that help me explore new technologies and product ideas. I am excited to build visualizations and narratives that communicate insights clearly and effectively.
+
+---
+
+# What I hope to learn
+Through this course, I hope to strengthen my skills in data storytelling and visual analysis. I want to learn how to create compelling visualizations that help decision-makers understand complex information quickly.
+
+I am particularly interested in improving clarity, design thinking, and learning visualization tools that support interactive and narrative-based storytelling. After graduating, I plan to pursue product and data roles where I can apply visualization and communication techniques to drive meaningful product and business decisions.
+
+---
+
+# Portfolio
+This is where all of my course assignments will live. Below are placeholders that will link to future work:
+
+### 📊 Assignment Links
+- **Visualizing Government Debt** → (visualizing-government-debt)
+- **Critique by Design** → (critique-by-design)
+- **Final Project — Part I** → (final-project-part-one)
+- **Final Project — Part II** → (final-project-part-two)
+- **Final Project — Part III** → (final-project-part-three)
+
+More assignments will be added as the course progresses!
+
+---
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
@@ -43,7 +63,7 @@ or...
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -89,9 +109,6 @@ Here's an example of how to add an image to my portfolio.
 
 ![funny dog picture](funny-dog-unsplash.jpg)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
 
 <img src="funny-dog-unsplash.jpg" width="200"/>
 
@@ -121,48 +138,3 @@ _List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
-
----
-
-## ✅ Required Course Sections (Added Below — DO NOT DELETE ABOVE)
-
-### 📊 Assignment Index
-> All required pages for Telling Stories with Data  
-
-| Assignment | Link | Status |
-|---|---|---|
-Visualizing Government Debt | [visualizing-government-debt](visualizing-government-debt) | ✅ created |
-Critique-by-Design | [critique-by-design](critique-by-design) | ✅ created |
-Final Project — Part I | [final-project-part-one](final-project-part-one) | ✅ created |
-Final Project — Part II | [final-project-part-two](final-project-part-two) | ✅ created |
-Final Project — Part III | [final-project-part-three](final-project-part-three) | ✅ created |
-Data Viz Examples | [dataviz-examples](dataviz-examples) | ✅ created |
-
-### 📝 To-Do Pages (you will fill later)
-> These are placeholders — you don't need content yet.
-
-- `/in-class-activities.md`
-- `/datasets.md`
-- `/notes-and-reflections.md`
-
----
-
-### ✅ Navigation Reminder (for your GitHub Pages header menu)
-Make sure all these files exist in the repo root:
-
-```
-visualizing-government-debt.md  
-critique-by-design.md
-final-project-part-one.md
-final-project-part-two.md
-final-project-part-three.md
-dataviz-examples.md
-```
-
----
-
-🎉 **Everything from your original README is still there — untouched.**
-
-Tell me when you're ready & I will also generate all the *empty assignment pages* for you so you can paste them in your repo.
-````
