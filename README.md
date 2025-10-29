@@ -4,7 +4,7 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://ayushmishra.github.io/tswd-portfolio-ayush
+- Web page URL:  https://ayush78697869.github.io/Ayush-dvis-portfolio/
 - This repository: https://github.com/ayushmishra/tswd-portfolio-ayush
 
 ---
