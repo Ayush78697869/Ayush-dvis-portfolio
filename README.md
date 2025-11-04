@@ -27,7 +27,7 @@ Through this course, I hope to strengthen my skills in data storytelling and vis
 This is where all of my course assignments will live. Below are placeholders that will link to future work:
 
 ### 📊 Assignment Links
-- **Visualizing Government Debt** → (visualizing-government-debt)
+- **Visualizing Government Debt** → https://us-east-1.online.tableau.com/#/site/amishra2-8674534457/workbooks/3552176?:origin=card_share_link
 - **Critique by Design** → (critique-by-design)
 - **Final Project — Part I** → (final-project-part-one)
 - **Final Project — Part II** → (final-project-part-two)
