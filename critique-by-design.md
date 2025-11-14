@@ -29,7 +29,7 @@ I switched to a bar graph which is more coherent and added the necessary informa
 ## Step three: Sketch a solution
 
 High level Wireframe of the solution 
-<img width="900" height="700" alt="image" src="Screenshot 2025-11-13 at 7.41.38 PM.png" />
+<img width="900" height="700" alt="image" src="ChatGPT Image Nov 13, 2025, 08_49_11 PM.png" />
 
 
 <img width="900" height="700" alt="image" src="Screenshot 2025-11-13 at 7.41.38 PM.png" />
