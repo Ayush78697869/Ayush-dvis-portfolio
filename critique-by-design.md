@@ -3,13 +3,23 @@
 # Top 10 spending Militaries in 2021
 
 
-## Step one: Original Pie chart<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/dd74a8b0-0f60-4b10-945e-58682a9e35ca" />
+## Step one: Original Pie chart     <img width="350" height="500" alt="image" src="Picture 1.png" />
 
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+_Link: https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/_
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+## Step two: My Critique
+Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well? 
+This visualization provides a clear overview of the world’s biggest military spenders in 2021. The use of a circular (or pie-style) layout effectively emphasizes the U.S. and China’s dominance in global defence spending. What stood out most is how visually large the U.S. segment is compared to all others. The design also uses military-themed colours (greens and khakis) and toy soldier imagery, which fits the topic well and adds a strong visual identity. What worked really well: Visual hierarchy: The U.S. and China’s portions immediately draw attention, accurately showing their disproportionate spending. Design consistency: The typography, colours, and military imagery create a cohesive theme. Annotations: The small fact boxes about each country (e.g., “China’s spending has increased 27 years in a row”) adds meaningful context. What didn’t work as well: Readability issues: The green-on-green text makes it harder to read, especially for smaller labels like percentages and country names. Proportional distortion: The circular chart with different shape pies is visually appealing but can make it difficult to precisely compare smaller spenders (e.g., Germany vs. France). Data focus: The “Rest of the World” category is huge but visually underexplained — it could benefit from more context or a breakdown.
+
+Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?
+The primary audience seems to be general readers interested in global economics, defence, or policy trends, as well as students or professionals seeking a quick visual summary. The visualization is effective for this group because it simplifies complex global data into an immediately understandable picture. It’s not overloaded with statistics, and the design grabs attention in a social-media-friendly way . However, for policy analysts or researchers, it might feel too high-level. They might want more granular data, such as year-over-year change or regional distribution. The answer to this question therefore is really who the target audience is.
+
+Based on your critique, what do you think you'll try to focus on in your redesign?   Any ideas or inspiration for how you can make a better data visualization?  What are you excited to try next? *
+I switched to a bar graph which is more coherent and added the necessary information not communicated through the graph itself as a footnote much like the pie graph.
+
+
+
 
 ## Step three: Sketch a solution
 
