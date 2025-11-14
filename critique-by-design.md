@@ -23,43 +23,43 @@ I switched to a bar graph which is more coherent and added the necessary informa
 
 ## Step three: Sketch a solution
 
-<img width="350" height="500" alt="image" src="Picture 1.png" />
+<img width="900" height="700" alt="image" src="Screenshot 2025-11-13 at 7.41.38 PM.png" />
 
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Step 4: Critique from interview
+Q: Can you tell me what you think this is?
+It looks like a chart showing how much different countries spend on their military. But since every bar is the same colour, it’s a little hard to tell things apart.
+Q: Can you describe to me what this is telling you?
+The U.S. spends the most, and the “Rest of the World” group is also really big. The other countries spend much less, but they all blend together because the bars look the same.
+Q: Is there anything you find surprising or confusing?
+Yeah  the “Rest of the World” bar is huge and kind of takes over the whole chart. Since it’s the same colour as the other bars, I wasn’t sure at first if it was a country or something else.
+Q: Who do you think is the intended audience for this?
+Probably students or anyone trying to understand global military spending. But the chart design doesn’t make it super easy to compare the smaller countries.
+Q: Is there anything you would change or do differently?
+I’d use different colours so it’s easier to compare countries. Specially for the rest of the world.
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Interview 2:
+Q: Can you tell me what you think this is?
+It looks like a chart about military spending. Everything is the same colour so it’s a bit hard to tell the countries apart.
+Q: Can you describe to me what this is telling you?
+The U.S. and China almost spend equivalent to the Rest of the World. 
+Q: Is there anything you find surprising or confusing?
+The colour choice of writing green on green makes it difficult to read.
+Q: Who do you think is the intended audience for this?
+Probably people who want a simple breakdown of spending, like students or readers learning about defence budgets.
+Q: Is there anything you would change or do differently?
+Colour shading should be different and Rest of the world should be separated from all countries.
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+I decided to change the colour scheme to gradient and move rest of the world to the bottom in grey colour
+
+
+<img width="900" height="700" alt="image" src="Screenshot 2025-11-13 at 7.41.38 PM.png" />
 
 ## References
 _List any references you used here._
