@@ -32,6 +32,12 @@ High level Wireframe of the solution
 <img width="650" height="500" alt="image" src="ChatGPT Image Nov 13, 2025, 08_49_11 PM.png" />
 
 
+
+
+
+
+
+
 <img width="800" height="650" alt="image" src="Screenshot 2025-11-13 at 7.41.38 PM.png" />
 
 
