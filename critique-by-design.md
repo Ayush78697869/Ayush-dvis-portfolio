@@ -69,9 +69,9 @@ I decided to change the colour scheme to gradient and move rest of the world to 
 
 <img width="900" height="700" alt="image" src="Screenshot 2025-11-13 at 7.42.21 PM.png" />
 
-## References
-_List any references you used here._
+## References: 
+Visual Capitalist : https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI Acknowledgement : Used Copilot to generate the bar graph by giving it exact promot of what I needed, numbers ,percentages and colour schemes
+
 
