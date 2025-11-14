@@ -30,7 +30,10 @@ I switched to a bar graph which is more coherent and added the necessary informa
 
 High level Wireframe of the solution   
 
-<img width="650" height="500" alt="image" src="ChatGPT Image Nov 13, 2025, 08_49_11 PM.png" />   
+<img width="650" height="500" alt="image" src="ChatGPT Image Nov 13, 2025, 08_49_11 PM.png" />    
+
+Actual Solution    
+
 
 
 
