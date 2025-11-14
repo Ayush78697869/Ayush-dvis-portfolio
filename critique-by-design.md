@@ -28,8 +28,10 @@ I switched to a bar graph which is more coherent and added the necessary informa
 
 ## Step three: Sketch a solution
 
-High level Wireframe of the solution 
-<img width="650" height="500" alt="image" src="ChatGPT Image Nov 13, 2025, 08_49_11 PM.png" />
+High level Wireframe of the solution   
+
+<img width="650" height="500" alt="image" src="ChatGPT Image Nov 13, 2025, 08_49_11 PM.png" />   
+
 
 
 
