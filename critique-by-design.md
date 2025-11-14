@@ -29,10 +29,10 @@ I switched to a bar graph which is more coherent and added the necessary informa
 ## Step three: Sketch a solution
 
 High level Wireframe of the solution 
-<img width="900" height="700" alt="image" src="ChatGPT Image Nov 13, 2025, 08_49_11 PM.png" />
+<img width="650" height="500" alt="image" src="ChatGPT Image Nov 13, 2025, 08_49_11 PM.png" />
 
 
-<img width="900" height="700" alt="image" src="Screenshot 2025-11-13 at 7.41.38 PM.png" />
+<img width="800" height="650" alt="image" src="Screenshot 2025-11-13 at 7.41.38 PM.png" />
 
 
 ## Step four: Test the solution
@@ -76,7 +76,7 @@ Colour shading should be different and Rest of the world should be separated fro
 I decided to change the colour scheme to gradient and move rest of the world to the bottom in grey colour. Decison to move to bar graph was because even after building the bar graph such that it is same pie shape for each country it would not have enough space for writing the names of smaller countries and their contribution to the total expense. 
 
 
-<img width="900" height="700" alt="image" src="Screenshot 2025-11-13 at 7.42.21 PM.png" />
+<img width="800" height="650" alt="image" src="Screenshot 2025-11-13 at 7.42.21 PM.png" />
 
 ## References: 
 Visual Capitalist : https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
