@@ -84,44 +84,44 @@ Actual Solution
 Step 4: Critique from interview
 Q: Can you tell me what you think this is?  
 
-It looks like a chart showing how much different countries spend on their military. But since every bar is the same colour, it’s a little hard to tell things apart.
+A:It looks like a chart showing how much different countries spend on their military. But since every bar is the same colour, it’s a little hard to tell things apart.
 
 Q: Can you describe to me what this is telling you?  
 
-The U.S. spends the most, and the “Rest of the World” group is also really big. The other countries spend much less, but they all blend together because the bars look the same.
+A:The U.S. spends the most, and the “Rest of the World” group is also really big. The other countries spend much less, but they all blend together because the bars look the same.
 
 Q: Is there anything you find surprising or confusing?  
 
-Yeah  the “Rest of the World” bar is huge and kind of takes over the whole chart. Since it’s the same colour as the other bars, I wasn’t sure at first if it was a country or something else.
+A:Yeah  the “Rest of the World” bar is huge and kind of takes over the whole chart. Since it’s the same colour as the other bars, I wasn’t sure at first if it was a country or something else.
 
 Q: Who do you think is the intended audience for this?  
 
-Probably students or anyone trying to understand global military spending. But the chart design doesn’t make it super easy to compare the smaller countries.
+A:Probably students or anyone trying to understand global military spending. But the chart design doesn’t make it super easy to compare the smaller countries.
 
 Q: Is there anything you would change or do differently?  
 
-I’d use different colours so it’s easier to compare countries. Specially for the rest of the world.
+A:I’d use different colours so it’s easier to compare countries. Specially for the rest of the world.
 
 Interview 2:
 Q: Can you tell me what you think this is?  
 
-It looks like a chart about military spending. Everything is the same colour so it’s a bit hard to tell the countries apart.
+A:It looks like a chart about military spending. Everything is the same colour so it’s a bit hard to tell the countries apart.
 
 Q: Can you describe to me what this is telling you?  
 
-The U.S. and China almost spend equivalent to the Rest of the World. 
+A:The U.S. and China almost spend equivalent to the Rest of the World. 
 
 Q: Is there anything you find surprising or confusing?  
 
-The colour choice of writing green on green makes it difficult to read.
+A:The colour choice of writing green on green makes it difficult to read.
 
 Q: Who do you think is the intended audience for this?  
 
-Probably people who want a simple breakdown of spending, like students or readers learning about defence budgets.
+A:Probably people who want a simple breakdown of spending, like students or readers learning about defence budgets.
 
 Q: Is there anything you would change or do differently?  
 
-Colour shading should be different and Rest of the world should be separated from all countries.
+A:Colour shading should be different and Rest of the world should be separated from all countries.
 
 
 
