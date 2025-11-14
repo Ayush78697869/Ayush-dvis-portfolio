@@ -3,10 +3,15 @@
 # Top 10 spending Militaries in 2021
 
 
-## Step one: Original Pie chart     <img width="350" height="500" alt="image" src="Picture 1.png" />
 
+
+## Step one: Original Pie chart     
 
 _Link: https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/_
+
+
+
+<img width="550" height="700" alt="image" src="Picture 1.png" />
 
 ## Step two: My Critique
 Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well? 
