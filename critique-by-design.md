@@ -23,6 +23,9 @@ I switched to a bar graph which is more coherent and added the necessary informa
 
 ## Step three: Sketch a solution
 
+<img width="350" height="500" alt="image" src="Picture 1.png" />
+
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
