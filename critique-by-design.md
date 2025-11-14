@@ -77,6 +77,6 @@ I decided to change the colour scheme to gradient and move rest of the world to 
 ## References: 
 Visual Capitalist : https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
 
-AI Acknowledgement : Used Copilot to generate the bar graph by giving it exact promot of what I needed, numbers ,percentages and colour schemes
+AI Acknowledgement : Used Copilot to generate the bar graph by giving it exact prompt of what I needed, numbers ,percentages and colour schemes
 
 
