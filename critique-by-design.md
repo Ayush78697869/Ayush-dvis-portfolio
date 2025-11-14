@@ -69,7 +69,7 @@ Colour shading should be different and Rest of the world should be separated fro
 
 ## Step five: build the solution
 
-I decided to change the colour scheme to gradient and move rest of the world to the bottom in grey colour
+I decided to change the colour scheme to gradient and move rest of the world to the bottom in grey colour. Decison to move to bar graph was because even after building the bar graph such that it is same pie shape for each country it would not have enough space for writing the names of smaller countries and their contribution to the total expense. 
 
 
 <img width="900" height="700" alt="image" src="Screenshot 2025-11-13 at 7.42.21 PM.png" />
