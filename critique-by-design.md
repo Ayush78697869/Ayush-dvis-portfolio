@@ -11,7 +11,7 @@ _Link: https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spen
 
 
 
-<img width="550" height="700" alt="image" src="Picture 1.png" />
+<img width="550" height="700" alt="image" src="1.png" />
 
 ## Step two: My Critique
 Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?  
