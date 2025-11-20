@@ -54,7 +54,7 @@ Even though Allegheny County has **shorter average commute times**, averages can
 ### 1️⃣ Beginning — Setting the Context  
 **Sketch 1: Baseline Mean Travel Time by Geography**  
 *(Bar chart: U.S. vs PA vs Allegheny County)*  
-![Sketch1]()
+<img width="550" height="700" alt="image" src="Picture 1.png" />
 
 > Allegheny County has the shortest average commute — but does this hide deeper inequalities?
 
