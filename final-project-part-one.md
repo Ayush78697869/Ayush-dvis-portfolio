@@ -54,7 +54,7 @@ Even though Allegheny County has **shorter average commute times**, averages can
 ### 1️⃣ Beginning — Setting the Context  
 **Sketch 1: Baseline Mean Travel Time by Geography**  
 *(Bar chart: U.S. vs PA vs Allegheny County)*  
-<img width="550" height="700" alt="image" src="Picture 1.png" />
+<img width="550" height="700" alt="image" src="1.png" />
 
 > Allegheny County has the shortest average commute — but does this hide deeper inequalities?
 
@@ -65,7 +65,7 @@ Even though Allegheny County has **shorter average commute times**, averages can
 #### 🚦 User Story 1 — Long Commuters  
 **Sketch 2: Commute Time Distribution (Allegheny County)**  
 *(Histogram showing 60+ minute commuters)*  
-![Sketch2]()
+<img width="550" height="700" alt="image" src="2.png" />
 
 > The top 10% of workers lose **over 250 hours per year** just traveling.
 
@@ -74,7 +74,8 @@ Even though Allegheny County has **shorter average commute times**, averages can
 #### 👩‍🚌 User Story 2 — Gender Commute Gap  
 **Sketch 3: Mean Travel Time by Sex & Geography**  
 *(Grouped bar chart)*  
-![Sketch3]()
+<img width="550" height="700" alt="image" src="3.png" />
+
 
 > Women in Allegheny County lose **more commute time than men**, despite similar job locations.
 
@@ -83,7 +84,8 @@ Even though Allegheny County has **shorter average commute times**, averages can
 #### 🏡 User Story 3 — Remote Workers  
 **Sketch 4: % Worked from Home Across Geographies**  
 *(Comparative bar chart)*  
-![Sketch4]()
+<img width="550" height="700" alt="image" src="4.png" />
+
 
 > Remote workers regain **hundreds of hours per year** — representing the **highest quality-of-life score**.
 
@@ -94,7 +96,8 @@ Even though Allegheny County has **shorter average commute times**, averages can
 #### 🏭 Industry-Based Burden  
 **Sketch 5: Public Transit Dependency by Industry**  
 *(Horizontal bar / Heatmap)*  
-![Sketch5]()
+<img width="550" height="700" alt="image" src="5.png" />
+
 
 > Industries like **Education & Healthcare** have the highest public transit reliance — leading to longer, less flexible commutes.
 
@@ -102,7 +105,8 @@ Even though Allegheny County has **shorter average commute times**, averages can
 
 #### 💼 Occupation-Based Flexibility  
 **Sketch 6: Work-From-Home Eligibility by Occupation** *(Lollipop Chart)*  
-![Sketch6]()
+<img width="550" height="700" alt="image" src="6.png" />
+
 
 > Management and Tech jobs have **96% access to WFH**, while Service and Construction have almost **none** — locking them into commute-dependent lifestyles.
 
