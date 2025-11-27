@@ -11,17 +11,39 @@ Community members/workers	Recognize how commute time affects energy, family time
 
 Interview Script
 Goal	Interview Questions
-Understand commute patterns	1. Can you describe your daily commute (duration, mode, frequency)?
+
+
+Understand commute patterns	
+
+
+1.Can you describe your daily commute (duration, mode, frequency)?
+
+
 	2. How does commuting affect your morning/evening routine?
 Explore emotional impact	3. How do you feel about your commute?
+
+
 	4. What do you lose or sacrifice because of commuting (sleep, family time, hobbies, mental health)?
-Explore fairness & control	5. Do you feel your commute is fair compared to others? Why or why not?
+Explore fairness & control
+5. Do you feel your commute is fair compared to others? Why or why not?
+
+
 	6. How much control or choice do you feel you have over your commute?
-Understand role of remote work	7. Does your job allow remote or hybrid work? Would you prefer it?
+Understand role of remote work
+
+7. Does your job allow remote or hybrid work? Would you prefer it?
+
+
 	8. If you could eliminate or reduce your commute, how would it change your life?
-Explore value of time	9. If you had an extra hour daily (reduced commute), how would you use it?
-Quality-of-life connection	10. Do you think commute time is a good indicator of quality of life? Why or why not?
-Reflection & policy ideas	11. What should policymakers or employers change about commuting or work flexibility?
+Explore value of time
+
+	9. If you had an extra hour daily (reduced commute), how would you use it?
+Quality-of-life connection
+
+	10. Do you think commute time is a good indicator of quality of life? Why or why not?
+Reflection & policy ideas
+
+	11. What should policymakers or employers change about commuting or work flexibility?
 
 User Research: Findings
 Interviewees (Broad Descriptions – No PII)
