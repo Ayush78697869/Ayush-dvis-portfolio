@@ -16,37 +16,60 @@ Goal	Interview Questions
 Understand commute patterns	
 
 
-	1.Can you describe your daily commute (duration, mode, frequency)?
+	1. When you saw the opening storyboard (Sketch 1), what message did you take away?
 
+Answer:
+It clearly showed that Allegheny County has shorter average commutes, but I didn’t fully understand why that might still hide deeper inequalities. It set the stage but didn't make the problem feel urgent yet.
 
-	2. How does commuting affect your morning/evening routine?Explore emotional impact
-	
-	
-	3. How do you feel about your commute?
+2. Did the transition from average commute to long-commuter burden (Sketch 2) feel clear and logical?
 
+Answer:
+Yes, it made sense that the average hides the extreme cases. Seeing the 60+ minute commuters helped me understand the “hidden time tax,” but I’d like more visual emphasis on time lost in hours, not just percentages.
 
-	4. What do you lose or sacrifice because of commuting (sleep, family time, hobbies, mental health)?Explore fairness & control
+3. Which visual or quote made you feel something, not just understand the data?
 
+Answer:
+The quote “I don’t lose minutes, I lose moments” was powerful. But some visuals still felt too statistical—there weren’t enough emotional cues like faces, context, or real human situations.
 
-	5. Do you feel your commute is fair compared to others? Why or why not?
+4. Do any sketches clearly show what people sacrifice because of commuting—like sleep, family time, or health?
 
+Answer:
+You showed time lost, but not really what people actually lose because of it. A visual showing ‘what that time could have been used for’ would make it more relatable.
 
-	6. How much control or choice do you feel you have over your commute?Understand role of remote work
+5. In the gender, industry, and occupation charts, did it feel clear who loses more time unfairly?
 
-	
-	7. Does your job allow remote or hybrid work? Would you prefer it?
+Answer:
+I understood that teachers, nurses, and construction workers commute more, but I didn’t fully grasp the fairness issue. Maybe include why these groups have less choice, not just longer commutes.
 
+6. Do any visuals help you see who commutes by choice vs. who commutes because they have no choice?
 
-	8. If you could eliminate or reduce your commute, how would it change your life?Explore value of time
+Answer:
+Not clearly yet. The data shows who has longer commutes but doesn't show who has control. A “Commute Choice vs. Commute Obligation” visual would help.
 
-	
-	9. If you had an extra hour daily (reduced commute), how would you use it?Quality-of-life connection
+7. Does the remote work sketch help convey that some jobs structurally avoid commute burden?
 
-	
-	10. Do you think commute time is a good indicator of quality of life? Why or why not?Reflection & policy ideas
+Answer:
+Yes, but it feels more like a work-from-home statistic, not a statement about privilege or inequality. It should feel more like a contrast between freedom and constraint.
 
-	
-	11. What should policymakers or employers change about commuting or work flexibility?
+8. Can you imagine how life would change for these commuters if their commute was reduced or removed?
+
+Answer:
+Not fully. I understood the time impact, but I didn’t emotionally feel the gain. Show lifestyle impact—like more sleep, family breakfast, health—rather than just hours saved.
+
+9. Does any part of the storyboard show how people would actually use an extra hour?
+
+Answer:
+Not yet. A pie chart or icons showing “sleep, exercise, family time, mental rest” would help bring that to life visually.
+
+10. After seeing these sketches, do you believe commute time can be a quality-of-life indicator?
+
+Answer:
+Yes, but only after seeing the occupation and remote work visuals. That’s where it became clear that commute is more than just travel—it’s about time, choice, and mental well-being.
+
+11. Did the final storyboard make the issue feel serious enough for policymakers or employers to act on?
+
+Answer:
+It was persuasive, but I wanted clearer visual “so what?” insights—like specific groups that are being left behind and what policies could help them.
 
 User Research: Findings
 Interviewees (Broad Descriptions – No PII)
