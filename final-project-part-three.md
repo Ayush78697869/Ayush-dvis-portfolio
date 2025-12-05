@@ -74,6 +74,8 @@ U.S. Census Bureau. (2024). ACS 1-Year Estimates, Table S0802: Means of Transpor
 
 U.S. Census Bureau. (2024). ACS 1-Year Estimates, Table S0804: Means of Transportation to Work by Occupation (Workplace Geography). Retrieved from https://data.census.gov
 
+All the sketches were generated through Gemini using the data that is mentioned above
+
 
 ## AI acknowledgements
 > Parts of this project’s narrative structure, data storytelling framing, markdown formatting and revision explanations were supported using AI tools (ChatGPT). AI assistance was used to help refine wording, craft stakeholder-specific CTAs, and improve the clarity of the story flow. All data analysis, interpretations, visual designs, and final storyboard decisions reflect my own work, judgement, and understanding of the course concepts.
