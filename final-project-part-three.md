@@ -6,31 +6,109 @@
 Text here!
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+> I replaced my original title “Who Loses Time — and Why — in Allegheny County?”  with the framing “Commute Time as a Proxy Indicator of Quality of Life” based on recommendation. This version immediately communicates the central question of my story and better draws the reader in.
 
-Text here!
+2)I strengthened the connection between each visualization and the overall narrative. Instead of showing charts “on their own,” I added one-sentence insights and implications beneath every sketch.
+
+3)For example, after the gender commute gap chart, I added: "Men in Allegheny County lose more commute time than women, despite similar job locations.So while the gap is not solely due to “men working farther from home than women,” structural and social-behavioral factors tend to skew commutes longer for men"
+
+4)I added a concise CTA section that tells each audience segment (policy makers, employers, planners, and community members) exactly what they should do with the information.
+
+5)I updated the wireframe so it clearly communicates how my sketches move from context → inequality → explanation → action.
+
+6)I modified Sketch 3 (the gender gap chart) to include a higher-contrast highlight color, as suggested, so the small differences are visually clearer.
+
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+>  Interview 1 — Transportation Advocacy Group Representative
 
-Text here!
+Q: When you look at commute-time differences by gender and industry, what information is most useful for advocacy work?
+A: “We need clear evidence of who is being left behind. If you can highlight which groups consistently lose more time, it strengthens our push for equitable transit investment.”
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+ Interview 2 — Employer (HR Manager)
 
-Text here!
+Q: Would commute-time data influence workplace flexibility or hybrid scheduling?
+A: “Absolutely. If I knew which employees lose the most time commuting, I would push for flexible hours or hybrid work. Commute burden is directly tied to retention.”
+
+ Interview 3 — Urban Planner
+
+Q: What would make commute inequality data more actionable for urban planning?
+A: “Focus on transit-dependent industries. Healthcare, education — those are where the longest, least flexible commutes happen. If you highlight those clearly, planners know where to intervene.”
+
+ Interview 4 — Long Commuter (60+ minutes)
+
+Q: How does your long commute affect your daily life?
+A: “I lose two hours every day. By the time I get home, the evening is gone. It affects my energy, my social life, everything.”
+
+ Interview 5 — Female Professional
+
+Q: Do commute times influence your job choices or work schedule?
+A: “Yes. I balance most household tasks, so a long commute just isn’t possible. I’ve turned down higher-paying jobs because they’d add an hour to my day.”
+
+ Interview 6 — Service Worker (Transit Dependent)
+
+Q: What is the biggest challenge with your commute?
+A: “Unpredictability. If the bus is late, I lose money. My shifts depend on being on time, but transit doesn’t always cooperate.”
+
+ Interview 7 — Healthcare Worker
+
+Q: Why do you rely on public transit instead of driving?
+A: “Parking near the hospital is expensive and limited. Transit is my only option, but it takes a long time and often involves multiple transfers.”
+
+ Interview 8 — Remote/Hybrid Worker
+
+Q: How has remote or hybrid work affected your quality of life?
+A: “It gave me back entire days. Even working from home twice a week saves me six to eight hours. That’s huge for my mental health.”
+
+
+
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+> Al-Asad, J., Mahmoudi, P., & Sharifi, A. (2023). Exploring the relationship between commuting time and subjective wellbeing. Transportation Research Part F: Traffic Psychology and Behaviour.
+
+Han, L., Wang, Y., & Zhang, Z. (2024). Impact of commuting on mental well-being and life satisfaction. Journal of Transport & Health.
+
+U.S. Census Bureau. (2024). American Community Survey (ACS) 1-Year Estimates, Table S0801: Commuting Characteristics by Sex. Retrieved from https://data.census.gov
+
+U.S. Census Bureau. (2024). ACS 1-Year Estimates, Table S0802: Means of Transportation to Work by Industry. Retrieved from https://data.census.gov
+
+U.S. Census Bureau. (2024). ACS 1-Year Estimates, Table S0804: Means of Transportation to Work by Occupation (Workplace Geography). Retrieved from https://data.census.gov
+
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+> Parts of this project’s narrative structure, data storytelling framing, markdown formatting and revision explanations were supported using AI tools (ChatGPT). AI assistance was used to help refine wording, craft stakeholder-specific CTAs, and improve the clarity of the story flow. All data analysis, interpretations, visual designs, and final storyboard decisions reflect my own work, judgement, and understanding of the course concepts.
 
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+> What the Data Shows
 
-Text here!
+Long commutes are concentrated. The top 10% of workers lose over 250 hours per year, meaning the burden isn’t widespread — it’s carried by a small group.
+
+Gender differences persist. Men lose more commute time than women even with similar job locations, suggesting differences in job type, flexibility, and household roles.
+
+Remote work is the biggest time-saver. Workers with WFH access regain the most hours, but access is unequal: tech and management roles benefit; service and construction do not.
+
+Industry drives commute pain. Healthcare and education workers rely heavily on transit, making their commutes longer and less predictable.
+
+What This Implies
+
+Commute time is really about time equity.
+Some people regain time because their jobs allow flexibility; others lose it simply due to the industry they work in or the mode of transportation available to them.
+
+What I Suggest
+
+Target transit improvements in healthcare and education corridors where commute burden is highest.
+
+Expand flexibility: employers should consider hybrid or staggered schedules where possible.
+
+Align housing and job centers to reduce distance-based inequalities.
+
+Encourage community advocacy around transit reliability and workplace flexibility.
+
+Final Takeaway
+
+Commute time is lifetime. Improving equity means giving people back the hours they lose — not just improving the roads they travel on.
+
+
 
 
